@@ -1,0 +1,14 @@
+{
+  "name": "easy-bargain",
+  "version": "1.0.0",
+  "description": "website for college students to exchange books and other relevant materials",
+  "main": "app.js",
+  "repository": "https://github.com/lazy-god/easy-bargain.git",
+  "author": "Darsh Pratap <darshpratap@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.16.3",
+    "sequelize": "^4.38.0"
+  }
+}
